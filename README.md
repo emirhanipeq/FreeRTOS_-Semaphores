@@ -1,4 +1,4 @@
-[README (1).md](https://github.com/user-attachments/files/22350764/README.1.md)
+
 # FreeRTOS Semaphores Example
 
 This project demonstrates the use of **FreeRTOS semaphores** on an STM32F767ZITX microcontroller.  
